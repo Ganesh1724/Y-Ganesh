@@ -1,0 +1,6 @@
+function addNumber(num1,num2) {
+    return num1 + num2;
+}
+const fristvalue =addNumbrers(5,5);
+const secondValue =addNumbers(12,13);{
+}
